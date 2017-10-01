@@ -2,3 +2,19 @@ html,body {
   margin: 0;
   padding: 0;
 }
+
+.background {
+  overflow: auto;
+}
+
+.lightgray.background {
+  background-color: whitesmoke;
+}
+.darkgray.background {
+  background-color: #292929;
+  color: white;
+}
+
+footer {
+  padding: 2em 0;
+}
